@@ -1,0 +1,14 @@
+*.class
+**/target/
+**/target/surefire-reports/
+*.log
+*.xml
+!pom.xml
+.DS_Store
+**/nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
